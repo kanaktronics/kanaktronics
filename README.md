@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kanak Raj 👋  
 
-<!--
-**kanaktronics/kanaktronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Also known as **Kanaktronics**  
+🎓 Class 9 student passionate about AI, Robotics, and Coding  
+💡 Exploring the intersection of hardware + software + AI  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Arduino, ESP32-CAM, L298N, Raspberry Pi  
+- Python, C++, JavaScript, React, Node.js  
+- AI Assistants, Speech Recognition, Computer Vision  
+- Game Development (Roblox Lua, Unreal C++)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- ESP32-CAM WiFi Robot  
+- AI Assistant with TTS + STT  
+- Roblox "Rivals" 1v1 Game  
+- Naruto-style Runner in Unreal Engine  
+
+## 🎯 Goal
+To become a software engineer (IIT CSE) and build impactful tools.  
+
+## 🏗️ Motto
+**Build early, fail fast, learn faster.**
