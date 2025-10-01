@@ -1,8 +1,9 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #FFD700, #FF8C00, #FF4500); -webkit-background-clip: text; color: transparent;">
+  <span style="background: linear-gradient(90deg, #FFD700, #FF8C00, #FF4500); -webkit-background-clip: text; color: transparent; font-size: 40px;">
     Kanak Raj — Kanaktronics
   </span>
 </h1>
+
 
 **Developer exploring Robotics, AI, and Full-Stack Development**  
 Building early, learning fast, and documenting projects along the way.
