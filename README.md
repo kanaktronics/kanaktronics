@@ -1,7 +1,8 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=0DB5FF&center=true&vCenter=true&lines=Kanak+Raj;Kanaktronics;Robotics+%7C+AI+%7C+Dev)](https://git.io/typing-svg)
-
-# Kanak Raj — Kanaktronics
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #FFD700, #FF8C00, #FF4500); -webkit-background-clip: text; color: transparent;">
+    Kanak Raj — Kanaktronics
+  </span>
+</h1>
 
 **Developer exploring Robotics, AI, and Full-Stack Development**  
 Building early, learning fast, and documenting projects along the way.
