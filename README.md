@@ -1,31 +1,31 @@
-# 👋 Welcome to Kanaktronics!
+# Kanak Raj — Kanaktronics
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F70000&lines=Hi+I'm+Kanak;Robotics+%7C+AI+%7C+Coding+Enthusiast;Exploring+AI+and+Robotics)](https://git.io/typing-svg)
-
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600"/>
-
----
-
-### ⚡ About Me
-- 🤖 Building projects in **Robotics + AI + Web Dev**
-- 💻 Languages: Python, C++, JS, React
-- 🚀 Exploring **ESP32-CAM, Arduino, Unreal Engine**
+**Student developer focused on Robotics, AI and Full-Stack development.**  
+I build small robots (ESP32 / Arduino), experiment with AI assistants, and create games and web apps to learn by doing.
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Quick facts
+- 🔧 Focus: Robotics · IoT · AI · Web · Game Dev  
+- 💻 Languages & tools: Python · C++ · JavaScript · React · Node.js · Arduino · ESP32 · Unreal · Roblox (Lua)  
+- 📍 Hazaribagh area, India  
+- 🏷 Motto: *Build early, fail fast, learn faster*
 
 ---
 
-### 📊 GitHub Stats
-![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanaktronics&show_icons=true&theme=tokyonight)
-
-[![Kanak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanaktronics&bg_color=0f2027&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Featured projects
+- **ESP32-CAM Robot** — WiFi-controlled robot with live camera stream and basic motor control (L298N).  
+- **AI Assistant (Gemini)** — Terminal & voice assistant integrated with Gemini API (text + TTS).  
+- **Roblox “Rivals”** — Small 1v1 lobby game made in Roblox Studio (Lua).  
+*(See repositories pinned below for links and details.)*
 
 ---
 
-![snake gif](https://github.com/kanaktronics/kanaktronics/blob/output/github-contribution-grid-snake.svg)
+### How to run / quick start
+Clone this account or open any project repo for instructions. Example (AI assistant):
+```bash
+git clone https://github.com/kanaktronics/ai-assistant-gemini.git
+cd ai-assistant-gemini
+pip install -r requirements.txt
+# add API key to the script, then:
+python ai_assistant_gemini.py
