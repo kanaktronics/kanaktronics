@@ -19,5 +19,5 @@
 ## 🎯 Goal
 To become a software engineer (IIT CSE) and build impactful tools.  
 
-## 🏗️ Motto
+## ✍️ Motto
 **Build early, fail fast, learn faster.**
