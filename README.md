@@ -1,8 +1,7 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #FFD700, #FF8C00, #FF4500); -webkit-background-clip: text; color: transparent; font-size: 40px;">
-    Kanak Raj — Kanaktronics
-  </span>
-</h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Kanak%20Raj%20—%20Kanaktronics&text2=✨Robotics%20|%20AI%20|%20Dev✨" width="800"/>
+</p>
+
 
 
 **Developer exploring Robotics, AI, and Full-Stack Development**  
