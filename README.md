@@ -39,10 +39,10 @@ How I work: start from a real problem, ship the product, and build deeper AI sys
 
 <a href="https://github.com/kanaktronics/fluxsentinel-ai"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/build-flux-dark.svg">
-  <img alt="FluxSentinel AI: Claude and Gemini review GitLab merge requests independently; only findings both agree on, checked against OSV, are reported." src="./assets/build-flux-light.svg" width="100%">
+  <img alt="FluxSentinel AI: Claude and Gemini review GitLab merge requests independently; a judge pass ranks findings by agreement and scores the risk." src="./assets/build-flux-light.svg" width="100%">
 </picture></a>
 
-<a href="https://stumpai.vercel.app"><picture>
+<a href="https://github.com/kanaktronics/stumpai"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/build-stump-dark.svg">
   <img alt="Stump.ai: guesses an IPL cricketer by asking the most informative question each turn." src="./assets/build-stump-light.svg" width="100%">
 </picture></a>

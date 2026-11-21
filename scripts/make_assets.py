@@ -246,9 +246,9 @@ def fixit(t, k):
 
 
 def flux(t, k):
-    W, H, b = build_shell(t, 'GITLAB AI HACKATHON · MULTI-AGENT', 'FluxSentinel AI', ['Node.js', 'Cloud Run', 'Claude', 'Gemini'], [
-        'Reviews GitLab merge requests. Two models audit the diff',
-        'on their own; only findings both agree on get reported.'])
+    W, H, b = build_shell(t, 'GITLAB AI HACKATHON · MULTI-AGENT', 'FluxSentinel AI', ['Node.js', 'Claude', 'Gemini', 'OSV'], [
+        'Reviews GitLab merge requests. Claude and Gemini audit each',
+        'diff on their own; a judge ranks findings by agreement.'])
     b.append(box(676, 122, 120, 56, 'MR diff', t, sub='webhook'))
     b.append(arrow(796, 140, 846, 92, t))
     b.append(arrow(796, 160, 846, 208, t))
@@ -257,11 +257,12 @@ def flux(t, k):
     b.append(arrow(980, 92, 1026, 140, t))
     b.append(arrow(980, 208, 1026, 160, t))
     b.append(f'<g transform="translate(1066 150)"><rect x="-36" y="-36" width="72" height="72" rx="8" transform="rotate(45)" '
-             f'fill="{t["bg"]}" stroke="{t["accent"]}" stroke-width="1.6"/>{tx(0, 6, "agree?", MONO, 14, t["accent"], anchor="middle")}</g>')
+             f'fill="{t["bg"]}" stroke="{t["accent"]}" stroke-width="1.6"/>{tx(0, 6, "judge", MONO, 14, t["accent"], anchor="middle")}</g>')
     b.append(arrow(1118, 150, 1146, 150, t))
-    b.append(box(1150, 122, 92, 56, 'OSV', t, sub='CVE check'))
+    b.append(box(1150, 122, 92, 56, 'risk', t, sub='0–100'))
+    b.append(tx(1066, 262, '+ regex scan · OSV dependency check', MONO, 12, t['muted'], anchor='middle'))
     return svg(f'build-flux-{k}.svg', W, H, '\n'.join(b), t,
-               'FluxSentinel AI: Claude and Gemini audit merge requests independently; consensus plus OSV check.')
+               'FluxSentinel AI: Claude and Gemini audit merge requests independently; a judge pass ranks findings by agreement and scores risk.')
 
 
 def stump(t, k):
