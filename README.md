@@ -1,59 +1,94 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Kanak%20Raj%20—%20Kanaktronics&text2=✨Robotics%20|%20AI%20|%20Dev✨" width="800"/>
+<a href="https://avenoric.tech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img alt="Kanak Raj. Founder, Avenoric. I build AI products people actually use." src="./assets/hero-light.svg" width="100%">
+  </picture>
+</a>
+
+<br>
+
+I'm the founder of **[Avenoric](https://avenoric.tech)**, a product-first AI company. I started building our first product, ExplainMate, at 14. Today it has **20,000 users**. We're bootstrapped, so every product decision has to pay for itself.
+
+How I work: start from a real problem, ship the product, and build deeper AI systems only where they give a real advantage.
+
+<br>
+
+## Products
+
+<p>
+  <a href="https://explainmate.tech"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-explainmate-dark.svg">
+    <img alt="ExplainMate: an AI study partner. Live, 20,000 users." src="./assets/card-explainmate-light.svg" width="49%">
+  </picture></a>
+  <a href="https://plintrix.tech"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-plintrix-dark.svg">
+    <img alt="Plintrix: the fun way to learn AI. Live." src="./assets/card-plintrix-light.svg" width="49%">
+  </picture></a>
 </p>
 
+<sub>Product code is closed source. The builds below are open.</sub>
 
+<br>
 
-**Developer exploring Robotics, AI, and Full-Stack Development**  
-Building early, learning fast, and documenting projects along the way.
+## Open source
 
----
+<a href="https://github.com/kanaktronics/FixIT-SLM"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/build-fixit-dark.svg">
+  <img alt="FixIT SLM: phi-3 fine-tuned with LoRA into an offline hardware and software troubleshooter." src="./assets/build-fixit-light.svg" width="100%">
+</picture></a>
 
-### 🔧 Focus Areas
-- Robotics · IoT · AI Assistants  
-- Web Development (React, Node.js)  
-- Game Development (Roblox Studio · Unreal Engine)  
+<a href="https://github.com/kanaktronics/fluxsentinel-ai"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/build-flux-dark.svg">
+  <img alt="FluxSentinel AI: Claude and Gemini review GitLab merge requests independently; only findings both agree on, checked against OSV, are reported." src="./assets/build-flux-light.svg" width="100%">
+</picture></a>
 
----
+<a href="https://stumpai.vercel.app"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/build-stump-dark.svg">
+  <img alt="Stump.ai: guesses an IPL cricketer by asking the most informative question each turn." src="./assets/build-stump-light.svg" width="100%">
+</picture></a>
 
-### 🛠️ Languages & Tools
+<br>
 
-#### Programming
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+## Notes from production
 
-#### Web Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/production-dark.svg">
+  <img alt="18,000 signups in about three weeks after one reel reached more than a million people. That month the cloud bill went from about ₹350 to ₹21,800." src="./assets/production-light.svg" width="100%">
+</picture>
 
-#### Hardware / IoT
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
-</p>
+<br>
 
-#### Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+## The road so far
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
+  <img alt="Arduino robots and Roblox games, then K&D Labs in Oct 2025, ExplainMate live in Nov 2025, renamed Avenoric in Jan 2026, featured by Dainik Jagran and Startup India in Jun 2026, 18k signups in Sep 2026, 20,000 users now." src="./assets/journey-light.svg" width="100%">
+</picture>
 
-### 🚀 Current Projects
-- **ESP32-CAM Robot** — WiFi robot with live video + motor control  
-- **AI Assistant (Gemini)** — Voice-enabled assistant powered by Google Gemini  
-- **Rivals (Roblox)** — Multiplayer 1v1 lobby-based game prototype  
+<br>
 
-*(See pinned repositories for details)*
+## Latest writing
 
----
+<!-- WRITING:START -->
+- **[The Product Is the Point: How We Decide What to Build](https://avenoric.tech/news/the-product-is-the-point)**<br><sub>COMPANY · Jul 2026</sub>
+- **[Making AI Reliable Enough to Ship](https://avenoric.tech/news/making-ai-reliable-enough-to-ship)**<br><sub>ENGINEERING · Jul 2026</sub>
+- **[Learning That Connects](https://avenoric.tech/news/learning-that-connects)**<br><sub>PRODUCT · Jul 2026</sub>
+- **[Right-Sized AI for Right-Sized Problems](https://avenoric.tech/news/right-sized-ai-for-right-sized-problems)**<br><sub>ENGINEERING · Jun 2026</sub>
+<!-- WRITING:END -->
 
-### 📊 GitHub Stats
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=kanaktronics&show_icons=true&theme=default)
+<sub>Pulled daily from the <a href="https://avenoric.tech/news">Avenoric blog</a> by a GitHub Action in this repo.</sub>
+
+<br>
+
+## Stack
+
+`TypeScript` `Next.js` `React` `Node.js` `Postgres / Supabase` `Python` `PyTorch` `Ollama` `Google Cloud` `Vercel`
+
+<br>
+
+<a href="https://avenoric.tech">avenoric.tech</a> · <a href="mailto:hello@avenoric.tech">hello@avenoric.tech</a> · <a href="https://www.instagram.com/kanak_.raj">Instagram</a> · <a href="https://www.youtube.com/@kanakrajdaily">YouTube</a> · <a href="https://www.linkedin.com/company/112764518">LinkedIn</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img alt="Build early. Fail fast. Learn faster." src="./assets/footer-light.svg" width="100%">
+</picture>
