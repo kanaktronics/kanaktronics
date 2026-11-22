@@ -70,10 +70,10 @@ How I work: start from a real problem, ship the product, and build deeper AI sys
 ## Latest writing
 
 <!-- WRITING:START -->
+- **[Why I Built Plintrix: The Fun Way to Learn AI](https://avenoric.tech/news/why-i-built-plintrix)**<br><sub>PRODUCT · Oct 2026</sub>
 - **[The Product Is the Point: How We Decide What to Build](https://avenoric.tech/news/the-product-is-the-point)**<br><sub>COMPANY · Jul 2026</sub>
 - **[Making AI Reliable Enough to Ship](https://avenoric.tech/news/making-ai-reliable-enough-to-ship)**<br><sub>ENGINEERING · Jul 2026</sub>
 - **[Learning That Connects](https://avenoric.tech/news/learning-that-connects)**<br><sub>PRODUCT · Jul 2026</sub>
-- **[Right-Sized AI for Right-Sized Problems](https://avenoric.tech/news/right-sized-ai-for-right-sized-problems)**<br><sub>ENGINEERING · Jun 2026</sub>
 <!-- WRITING:END -->
 
 <sub>Pulled daily from the <a href="https://avenoric.tech/news">Avenoric blog</a> by a GitHub Action in this repo.</sub>
